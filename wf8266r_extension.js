@@ -40,7 +40,7 @@ new (function() {
     var descriptor = {
         blocks: [
             //['', 'set voice to %m.voices', 'set_voice', ''],
-            ['w', 'speak %s', 'speak_text', 'Hello!'],
+            ['w', 'speak %s', 'speak_text', 'Hello From The Other Side!'],
         ],
         /*menus: {
             voices: _get_voices(),
